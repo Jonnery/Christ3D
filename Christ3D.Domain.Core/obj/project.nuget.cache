@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynAJYLIwoRwmEjJ6VvtkvbWAbGYMssfpQCH711nHMd9pqSSwtGiBUrPs+WJI5P3QWa3Q54XWJ9vXq9egKOdmIA==",
+  "success": true,
+  "projectFilePath": "E:\\个人\\学习\\新建文件夹\\Christ3D\\Christ3D.Domain.Core\\Christ3D.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilin\\.nuget\\packages\\fluentvalidation\\8.6.0\\fluentvalidation.8.6.0.nupkg.sha512",
+    "C:\\Users\\Guilin\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Guilin\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

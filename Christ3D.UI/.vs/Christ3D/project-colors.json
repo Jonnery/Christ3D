@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9bf085d-2add-461e-a36a-6e4c17a964d2": {
+      "ProjectGuid": "a9bf085d-2add-461e-a36a-6e4c17a964d2",
+      "DisplayName": "Christ3D.UI",
+      "ColorIndex": 0
+    },
+    "3aeb7732-895c-4bbe-80e3-9fe796dd76c6": {
+      "ProjectGuid": "3aeb7732-895c-4bbe-80e3-9fe796dd76c6",
+      "DisplayName": "Christ3D.Domain",
+      "ColorIndex": 1
+    },
+    "25fb74e5-8d5b-4b95-845a-f7e75196b896": {
+      "ProjectGuid": "25fb74e5-8d5b-4b95-845a-f7e75196b896",
+      "DisplayName": "Christ3D.Infrastruct.Data",
+      "ColorIndex": 2
+    },
+    "8c945556-7015-4255-912d-4e99de000af3": {
+      "ProjectGuid": "8c945556-7015-4255-912d-4e99de000af3",
+      "DisplayName": "Christ3D.Application",
+      "ColorIndex": 3
+    },
+    "09d0811c-307a-4b70-a84a-8dfbb2edd699": {
+      "ProjectGuid": "09d0811c-307a-4b70-a84a-8dfbb2edd699",
+      "DisplayName": "Christ3D.Domain.Core",
+      "ColorIndex": 4
+    },
+    "560a2f81-da6c-421f-a3f8-7d5bf1bf1833": {
+      "ProjectGuid": "560a2f81-da6c-421f-a3f8-7d5bf1bf1833",
+      "DisplayName": "Christ3D.WebApi",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
